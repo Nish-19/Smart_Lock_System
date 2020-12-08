@@ -6,7 +6,7 @@ Name - Nischal A; Roll No - 1801CS33
 
 The structure of this folder is as follows:-
 
-1. SMART LOCK SYSTEM.ppt is the power point presentation demonstrating the work.
+1. SMART LOCK SYSTEM.pdf is the power point presentation demonstrating the work.
 2. Face Recognition folder - contains code, datasets and results on running face recognition through webcam or on videos (of person         trying to open lock)
 3. access_grant.dat - contains the value of "valid" - generated from face recognition module. "valid" is taken as an input to the fsm      working.
 4. lock_fsm.v is the verilog file containing the code for Lock FSM implementation
